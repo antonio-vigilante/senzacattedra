@@ -6,4 +6,6 @@ Qualche mese fa ho ripreso il testo con l'idea di farne un _pamphlet_. Ma gli ap
 
 Chi voglia discuterne può contattarmi alla mail: antoniovigilante@autistici.org
 
+### Indice
+
 [Cap 1. Sinagogia](01.md)
