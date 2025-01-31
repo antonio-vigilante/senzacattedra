@@ -1,4 +1,6 @@
-# Senza cattedra
+<link rel="stylesheet" href="./assets/style.css">
+
+### Senza cattedra
 
 Ho buttato già di getto, tempo fa, [Contro la scuola](contro-la-scuola.md), una sintesi un po' brutale delle mie ragioni contro l'istituzione scolastica; un esercizio paradossale, per un docente, e tuttavia utile -- probabilmente ineludibile. Ne ho discusso con diversi amici, incontrando inaspettatamente più consensi che reazioni allarmate.
 
