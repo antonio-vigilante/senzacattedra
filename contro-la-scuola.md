@@ -1,3 +1,7 @@
+<link rel="stylesheet" href="./assets/style.css">
+
+### Contro la scuola
+
 A scuola non si apprende, se non in modo accidentale. Perché l’apprendimento è impossibile senza interesse, ed è semplicemente impossibile provare interesse contemporaneamente per più di dieci discipline, e per tutti gli argomenti di quelle discipline. Si apprende quando, in modo casuale, uno dei temi proposti incontra un nostro reale interesse. Per tutto il resto del tempo si finge un interesse che non c'è e, al momento delle verifiche, si simula di aver appreso ciò che non è stato appreso.
 
 È una sciocchezza che il docente debba far nascere l'interesse. Il suo compito è quello di non spegnere un interesse in atto.
