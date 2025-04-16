@@ -9,4 +9,4 @@ Chi voglia discuterne può contattarmi alla mail: antoniovigilante@autistici.org
 ### Indice
 
 [Contro la scuola](contro-la-scuola)  
-[1. 
+[1. La situazione educativa](cap01.md)  
