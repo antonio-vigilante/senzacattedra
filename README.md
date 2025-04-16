@@ -10,3 +10,4 @@ Chi voglia discuterne può contattarmi alla mail: antoniovigilante@autistici.org
 
 [Contro la scuola](contro-la-scuola)  
 [1. La situazione educativa](cap01.md)  
+[2. Sinagogia](cap02.md)   
