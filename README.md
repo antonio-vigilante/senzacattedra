@@ -8,4 +8,5 @@ Chi voglia discuterne può contattarmi alla mail: antoniovigilante@autistici.org
 
 ### Indice
 
-[Cap 1. Sinagogia](01.md)
+[Contro la scuola](contro-la-scuola)  
+[1. 
