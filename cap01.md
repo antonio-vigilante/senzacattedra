@@ -1,6 +1,4 @@
-## La situazione educativa
-
-# 1. La situazione educativa
+## 1. La situazione educativa
 
 1\. “Colui che contiene la pienezza della virtù è simile a un neonato”, si legge nel capitolo 55 del *Daodejing*. Come un neonato, continua, non è colpito da vespe, serpenti, scorpioni e vipere, non è aggredito dagli animali feroci né dagli uccelli rapaci. Ha ossa e muscoli deboli, ma la presa forte. Non conosce ancora l’accoppiamento sessuale, “ma la sua erezione è perfetta: la sua energia vitale è al culmine” (Lao Tzu, 2013, p. 55).  
 Bisogna volgersi al Daoismo, ossia a una visione filosofico-religiosa che capovolge gran parte dei nostri binarismi – a cominciare da quello, ben consolidato e di cui non si può sottovalutare l’importanza, tra maschile e femminile – per trovare un testo che affermi la potenza del neonato. Che non è, certo, immune dall’aggressione degli animali o degli insetti, ma realmente possiede un tensione verso la vita, la crescita, la conquista quotidiana di nuove possibilità che non ha pari in nessun’altra fase della vita. L’essere più fragile è anche l’essere più potente, più radicato nella vita, più capace di cambiamento. Con una rapidità che non può che impressionare, conquista nel giro di pochi mesi la stazione eretta e poi la parola, con un movimento che, se ha certo bisogno del supporto esterno, resta tuttavia guidato dall’interno.  
