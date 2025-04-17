@@ -16,3 +16,9 @@ Chi voglia discuterne può contattarmi alla mail: antoniovigilante@autistici.org
 [5. Ratio](cap05.md)  
 [6. I giardini di Adone](cap06.md)  
 [7. L'educazione popolare](cap07.md)  
+[8. Barbiana](cap08.md)  
+9. Ostacoli  
+10. L'alienazione scolastica
+11. Otium  
+Conclusione  
+[Bibliografia](bibliografia.md)  
