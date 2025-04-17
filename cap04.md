@@ -1,4 +1,6 @@
-# 4\. Un’uguaglianza di fatto
+<link rel="stylesheet" href="assets/style.css">
+
+## 4\. Un’uguaglianza di fatto
 
 1\. Nella nota introduttiva *Ai lettori* della *Didactica Magna* Comenio accenna ad alcuni “uomini dabbene” che Dio ha suscitato in Germania, quasi preannunciando “dall’aurora il sorgere di una nuova età” (Comenio, 1952, p. 4). Il più importante di questi uomini, “colui che era giusto nominare prima d’ogni altro” (ivi, p. 5\) è il teologo Johannes Valentinus Andreae, l’autore delle *Nozze chimiche di Cristiano Rosacroce*, la cui figura è legata indissolubilmente a quella dei movimento dei Rosacroce, al quale lo stesso Comenio appare molto vicino.  
 I due manifesti dei Rosacroce, la *Fama Fraternitatis* e la *Confessio Fraternitatis*, erano apparsi nel 1614 e nel 1616\. Il primo rivelava al mondo europeo l’esistenza di una confraternita segreta, fondata da Cristiano Rosacroce, che grazie a viaggi in Siria e in Egitto aveva acquisito una conoscenza segreta che inutilmente aveva cercato di divulgare poi nei diversi Paesi europei, decidendosi infine a costituire in Germania una comunità di eruditi organizzata come una confraternita religiosa. La *Fama* non si limitava a rivelare l’esistenza di questa confraternita e del sapere di cui essa era in possesso; voleva essere un invito ai dotti europei ad un confronto sulle necessità imposte dai tempi.  
