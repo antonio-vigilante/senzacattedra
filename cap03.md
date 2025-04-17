@@ -1,5 +1,7 @@
 <link rel="stylesheet" href="assets/style.css">
 
+[Indice](README.md) | [<<](cap02.md) | [>>](cap04.md)  
+
 ## 3\. L’officina scolastica
 
 1\. Diamo per scontata la scuola. Noi, intendo, che abbiamo studiato, che la scuola l’abbiamo attraversata non senza malessere, ma uscendone con un titolo di studio e la sensazione di avere qualcosa di più. Non riusciamo, noi, a non considerare con qualche commiserazione quelli che invece il titolo di studio non l’hanno conseguito. Quelli che *non ce l’hanno fatta*. Abbiamo la sicura percezione, noi, che la scuola è la via maestra, quella che decide i destini e separa gli uni dagli altri. Sentiamo di possedere la cultura, un bene immenso senza il quale mai riusciremmo a concepire la vita e a pensare noi stessi. E guardiamo con commiserazione a quelli che invece la cultura non l’hanno e sono talmente ciechi da non desiderarla nemmeno.  
