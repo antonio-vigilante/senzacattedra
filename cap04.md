@@ -1,5 +1,7 @@
 <link rel="stylesheet" href="assets/style.css">
 
+[Indice](README.md) | [<<](cap03.md) | [>>](cap05.md)  
+
 ## 4\. Un’uguaglianza di fatto
 
 1\. Nella nota introduttiva *Ai lettori* della *Didactica Magna* Comenio accenna ad alcuni “uomini dabbene” che Dio ha suscitato in Germania, quasi preannunciando “dall’aurora il sorgere di una nuova età” (Comenio, 1952, p. 4). Il più importante di questi uomini, “colui che era giusto nominare prima d’ogni altro” (ivi, p. 5\) è il teologo Johannes Valentinus Andreae, l’autore delle *Nozze chimiche di Cristiano Rosacroce*, la cui figura è legata indissolubilmente a quella dei movimento dei Rosacroce, al quale lo stesso Comenio appare molto vicino.  
