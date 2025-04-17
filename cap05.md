@@ -1,4 +1,6 @@
-# 5\. Ratio
+<link rel="stylesheet" href="assets/style.css">
+
+## 5\. Ratio
 
 1\. Un momento fondamentale per la nascita della scuola moderna è la *Ratio Studiorum* dei gesuiti, pubblicata dopo una lunga fase di elaborazione nel 1599, quando Comenio è ancora un bambino. Per comprenderlo però occorre fare un passo indietro.   
 Alla fine del Medioevo si affermano due modelli di organizzazione delle Università: quello bolognese e quello parigino. La differenza riguarda il ruolo degli studenti e il loro rapporto con i docenti e l’organizzazione generale. L’Università di Bologna, la più antica del mondo occidentale (è stata fondata nel 1088), è una comunità di studenti e docenti in cui in primo piano sono i primi, che si costituiscono appunto come “università”; sono loro a reclutare i docenti ed a pagare l’onorario. A Parigi invece i maestri sono costituiti in corporazioni ed hanno il controllo dell’Università, con una organizzazione interna che assegna a ciascun grado dei compiti e dei ruoli dettagliati in modo molto preciso. Gli studenti entrano dopo un esame di ammissione e sono quindi distribuiti in classi secondo il loro livello di preparazione, e non secondo l’età; sono tenuti a rispettare regole tanto stringenti, da far pensare a un convento più che a una libera università, e non era esclusa la punizione fisica (Codina, 2000).  
