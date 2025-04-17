@@ -12,3 +12,4 @@ Chi voglia discuterne può contattarmi alla mail: antoniovigilante@autistici.org
 [1. La situazione educativa](cap01.md)  
 [2. Sinagogia](cap02.md)   
 [3. L'officina scolastica](cap03.md)  
+[4. Un'uguaglianza di fatto](cap04.md)  
