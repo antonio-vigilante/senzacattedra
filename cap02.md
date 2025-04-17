@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="assets/style.css">
+
 ## 2. Sinagogia
 
 1\. Nel pensiero di Confucio non c’è solo l’ideale dell’uomo nobile, di cui abbiamo analizzato i limiti. Leggiamo ancora i *Dialoghi*:
