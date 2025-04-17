@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="assets/style.css">
 
-[Indice](README.md) | [>>](cap01.md)  
+[Indice](README.md) | [>>](cap02.md)  
 
 ## 1. La situazione educativa
 
