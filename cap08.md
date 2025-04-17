@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="assets/style.css">
+
 ## 8\. Barbiana
 
 1\. Una sera d’estate del ’56[^13] don Lorenzo Milani mette un disco a 78 giri sul grammofono usato normalmente a Barbiana per ascoltare le lezioni di francese. È una sonata di Beethoven. La fa ascoltare a uno dei suoi ragazzi; si aspetta che ne goda pienamente come sta facendo lui. Ma il ragazzo non riesce a comprendere quella musica. Il Priore obietta che la musica ha un linguaggio universale, è impossibile non capirla. Il ragazzo lo sfida: faranno ascoltare la sonata a Gino, un contadino che abita lì vicino, e si vedrà se è universale o no. Il buon Gino, ascoltata la musica, commenta: “Ma ti sembra questa l’ora di far chiasso?”. Il Priore ne rimane profondamente turbato.  
