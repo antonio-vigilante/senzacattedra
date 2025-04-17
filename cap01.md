@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="assets/style.css">
+
 ## 1. La situazione educativa
 
 1\. “Colui che contiene la pienezza della virtù è simile a un neonato”, si legge nel capitolo 55 del *Daodejing*. Come un neonato, continua, non è colpito da vespe, serpenti, scorpioni e vipere, non è aggredito dagli animali feroci né dagli uccelli rapaci. Ha ossa e muscoli deboli, ma la presa forte. Non conosce ancora l’accoppiamento sessuale, “ma la sua erezione è perfetta: la sua energia vitale è al culmine” (Lao Tzu, 2013, p. 55).  
