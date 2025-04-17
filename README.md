@@ -18,7 +18,7 @@ Chi voglia discuterne può contattarmi alla mail: antoniovigilante@autistici.org
 [7. L'educazione popolare](cap07.md)  
 [8. Barbiana](cap08.md)  
 9. Ostacoli  
-10. L'alienazione scolastica
+10. L'alienazione scolastica  
 11. Otium  
 Conclusione  
 [Bibliografia](bibliografia.md)  
