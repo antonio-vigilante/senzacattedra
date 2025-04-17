@@ -1,5 +1,7 @@
 <link rel="stylesheet" href="assets/style.css">
 
+[Indice](README.md) | [<<](cap04.md) | [>>](cap06.md)  
+
 ## 5\. Ratio
 
 1\. Un momento fondamentale per la nascita della scuola moderna è la *Ratio Studiorum* dei gesuiti, pubblicata dopo una lunga fase di elaborazione nel 1599, quando Comenio è ancora un bambino. Per comprenderlo però occorre fare un passo indietro.   
