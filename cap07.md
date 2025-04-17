@@ -1,4 +1,6 @@
-# 7\. L’educazione popolare
+<link rel="stylesheet" href="assets/style.css">
+
+## 7\. L’educazione popolare
 
 1\. Il semi-alfabetismo non è proprio solo dell’epoca di Platone. Fino a tempi piuttosto recenti ad essere alfabetizzata è stata solo una piccola parte della società. Il nostro, in particolare, è stato fino alla fine degli anni Cinquanta (e in alcune zone anche dopo) un Paese prevalentemente contadino con accesso limitato all’istruzione scolastica. La tecnologia della scrittura, insieme alla scuola, ai giornali, ai mezzi di comunicazione di massa, ha cominciato a diffondersi presso la maggior parte della popolazione solo dopo il boom economico.  
 Una domanda attraversa e inquieta tutta la pedagogia moderna e contemporanea: perché i poveri, per i quali la scuola moderna è nata, la rifiutano? Perché non accettano grati l’offerta che viene fatta loro dell’accesso alla scrittura e dunque alla cultura? Scriveva Tolstoj nel 1862:
