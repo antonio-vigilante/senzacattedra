@@ -15,3 +15,4 @@ Chi voglia discuterne può contattarmi alla mail: antoniovigilante@autistici.org
 [4. Un'uguaglianza di fatto](cap04.md)  
 [5. Ratio](cap05.md)  
 [6. I giardini di Adone](cap06.md)  
+[7. L'educazione popolare](cap07.md)  
