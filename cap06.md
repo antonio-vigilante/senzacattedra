@@ -1,5 +1,7 @@
 <link rel="stylesheet" href="assets/style.css">
 
+[Indice](README.md) | [<<](cap05.md) | [>>](cap07.md)  
+
 ## 6\. I giardini di Adone
 
 1\. La scuola presuppone la scrittura. Dal momento in cui impara a leggere e a scrivere il bambino accede al mondo della cultura; e finisce, si può dire, l’età del gioco, che da ora in poi sarà sempre più relegato sullo sfondo.  
