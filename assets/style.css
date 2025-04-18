@@ -18,6 +18,15 @@ img {
   border: 0px solid #ccc; /* Aggiunge un bordo intorno all'immagine */
 }
 
+figure {
+  text-align: center; /* centra orizzontalmente gli elementi inline o inline-block */
+}
+
+figure img {
+  max-width: 100%; /* utile per responsive design */
+  height: auto;
+}
+
 .callout {
   border-left: 4px solid #007BFF;
   background-color: #f0f8ff;
