@@ -3,8 +3,10 @@
 ### Per un'altra scuola
 
 <figure>
-  <img src="accademia.png">
+  <img src="comenio.png">
+  <figcaption>La scuola. Illustrazione tratta da Comenius, <a href="https://play.google.com/books/reader?id=iFGQ4C6IrUQC&pg=GBS.PA240&hl=it">Orbis sensualium pictus</a>, Kaspar Müller, Wratislav 1667.</figcaption>
 </figure>
+
 
 Ho scritto tempo fa _Contro la scuola_, una sintesi un po' brutale delle mie ragioni contro l'istituzione scolastica; un esercizio paradossale, per un docente, e tuttavia utile -- probabilmente ineludibile. Ne ho discusso con diversi amici, incontrando inaspettatamente più consensi che reazioni allarmate.
 
