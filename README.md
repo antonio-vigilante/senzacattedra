@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="assets/style.css">
 
-### Per un'altra scuola
+## Per un'altra scuola
 
 <figure>
   <img src="accademia.png">
