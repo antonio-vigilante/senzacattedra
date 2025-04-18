@@ -1,6 +1,6 @@
 ## Introduzione
 
-[Indice](README.md) | [>>](cap01.md)  
+[Indice](README.md) | [>>](contro-la-scuola.md)  
 
 1\. Alcune domande hanno una risposta semplice. Un sì o un no; vero o falso. Altre domande non hanno risposta. Molte domande hanno una risposta difficile. Questo libro è il tentativo di rispondere a una domanda difficile.  
 Qualche mese fa una mia studentessa di seconda Liceo ha manifestato la volontà di lasciare la scuola. Non perché la scuola fosse per lei troppo difficile: aveva voti altissimi in tutte le discipline; e probabilmente per lei la scuola era, ed è, troppo facile. Le sembrava semplicemente che la scuola non avesse granché da darle; che non servisse a crescere, a diventare migliori e creativi, a conoscere il mondo.  
