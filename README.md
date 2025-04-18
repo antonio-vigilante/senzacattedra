@@ -27,3 +27,5 @@ Chi voglia discuterne può contattarmi alla mail: antoniovigilante@autistici.org
 11\. Otium  
 Conclusione  
 [Bibliografia](bibliografia.md)  
+
+Nell'immagine: l'Accademia di Platone. Mosaico proveniente da Pompei. Napoli, Museo Archeologico.
