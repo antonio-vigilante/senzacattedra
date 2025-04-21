@@ -36,10 +36,10 @@ Dolci D., *Esperienze e riflessioni*, Laterza, Bari 1974b.
 Dolci D., *Il ponte screpolato*, Stampatori, Torino 1979\.  
 Dolci D., *Comunicare, legge della vita*, La Nuova Italia, Firenze 1999\.
 D’Orsi A., *Gramsci. Una nuova biografia*, Feltrinelli, Milano 2018 \[e\].  
-Foucault M., *Sorvegliare e punire*, Einaudi, Torino 1993 \[1975\].
-Freinet C., *L’éducation du travail*, Delachaux et Niestlé, Paris 1960\. Seconda edizione.
-Freire P., *La pedagogia degli oppressi*, Edizioni Gruppo Abele, Torino 2002\.
-Freire P., *Pedagogia dell’autonomia*, Edizioni Gruppo Abele, Torino 2004\.
+Foucault M., *Sorvegliare e punire*, Einaudi, Torino 1993 \[1975\].  
+Freinet C., *L’éducation du travail*, Delachaux et Niestlé, Paris 1960\. Seconda edizione.  
+Freire P., *La pedagogia degli oppressi*, Edizioni Gruppo Abele, Torino 2002\.  
+Freire P., *Pedagogia dell’autonomia*, Edizioni Gruppo Abele, Torino 2004\.  
 Freire P., *Pedagogia della speranza. Un nuovo approccio a* La pedagogia degli oppressi, Edizioni Gruppo Abele, Torino 2014\.  
 Fresco G. (a cura di), *Due pescatori siciliani raccontano la storia del Borgo di Dio*, Edizioni Portodimare, Milano 1954\.  
 Gambassi F., Vigilante A., *Alternativa nella scuola pubblica. Quindici tesi in dialogo*, Ledizioni, Milano 2018\.  
