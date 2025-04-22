@@ -28,8 +28,8 @@ Chi voglia discuterne può contattarmi alla mail: antoniovigilante@autistici.org
 [8. Barbiana](cap08.md)  
 9\. Ostacoli  
 [10. L'alienazione scolastica](cap10.md)    
-11\. Otium  
-Conclusione 
+11\. Otium    
+Conclusione   
 [Epilogo](epilogo.md)  
 [Bibliografia](bibliografia.md)  
 
