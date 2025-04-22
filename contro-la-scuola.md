@@ -20,9 +20,8 @@
 
 9\. La scuola non ha soltanto la colpa di non consentire alcun reale apprendimento. Quel che è peggio è che fin da subito associa l’apprendimento, lo studio, la conoscenza, che sono gioia, alla noia, alla passività, al fastidio. Inibisce la curiosità, la ricerca, la tensione verso la conoscenza. Castra la mente.  
 
-10\. La violenza maggiore la subiscono i docenti. Che giorno dopo giorno, anno dopo anno diventano grigi burocrati dello spirito, amministratori delegati di ricchezze che nelle loro mani sono destinate a diventare oro finto, gioielli di latta; zombi che si trascinano stancamente da un’aula all’altra sputacchiando le loro penose nozioni e le ancor più penose lezioncine morali.i ricchezze che nelle loro mani sono destinate a diventare oro finto, gioielli di latta; zombi che si trascinano stancamente da un'aula all'altra sputacchiando le loro penose nozioni e le ancor più penose lezioncine morali.
+10\. La violenza maggiore la subiscono i docenti. Che giorno dopo giorno, anno dopo anno diventano grigi burocrati dello spirito, amministratori delegati di ricchezze che nelle loro mani sono destinate a diventare oro finto, gioielli di latta; zombi che si trascinano stancamente da un’aula all’altra sputacchiando le loro penose nozioni e le ancor più penose lezioncine morali.
 
-La scuola è un ambiente in cui la socializzazione soffoca l'educazione, il prendere forma in un ambiente sociale prevale e nega la naturale espansione del potere individuale e collettivo. È, cioè, un ambiente diseducativo.
 
 
 
