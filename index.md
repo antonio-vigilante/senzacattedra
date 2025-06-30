@@ -2,6 +2,11 @@
 layout: page
 title: Senza cattedra
 subtitle: Percorsi per una scuola possibile
+permalink: /
+header:
+  overlay_image: /assets/img/header.jpg
+  overlay_filter: 0.3
+  caption: "Un altro modo di fare scuola"
 ---
 
 
