@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="assets/style.css">
-
 [Indice](README.md) | [<<](cap01.md) | [>>](cap03.md)    
 
 ## 2. Sinagogia
