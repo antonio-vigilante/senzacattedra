@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Senza cattedra
 subtitle: La scuola possibile
 ---
