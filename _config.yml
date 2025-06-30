@@ -1,3 +1,9 @@
-title: "Senza cattedra"
-theme: jekyll-theme-yat
+title: Il mio sito
+description: Descrizione del sito
+remote_theme: jeffreytse/jekyll-theme-yat@v1.10.0
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
