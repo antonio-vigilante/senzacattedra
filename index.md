@@ -1,4 +1,10 @@
-<link rel="stylesheet" href="assets/style.css">
+---
+layout: home
+title: Benvenuto
+subtitle: Questo è un sito Jekyll con il tema YAT
+---
+
+
 
 ### Per un'altra scuola
 
