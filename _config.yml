@@ -1,5 +1,8 @@
 title: Senza cattedra
-tagline: Percorsi per una scuola possibile
+header:
+  overlay_image: /assets/img/header.jpg
+  caption: "La scuola possibile"
+
 remote_theme: "jeffreytse/jekyll-theme-yat@v1.10.0"
 plugins:
   - jekyll-remote-theme
