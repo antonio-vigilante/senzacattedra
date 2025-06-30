@@ -1,7 +1,9 @@
 title: Senza cattedra
 header:
   overlay_image: /assets/img/header.jpg
-  caption: "La scuola possibile"
+  caption: "Un altro modo di fare scuola"
+  overlay_filter: 0.3
+
 
 remote_theme: "jeffreytse/jekyll-theme-yat@v1.10.0"
 plugins:
