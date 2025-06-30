@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="assets/style.css">
 
 [Indice](README.md) | [>>](cap02.md)  
 
