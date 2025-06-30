@@ -1,12 +1,8 @@
 ---
 layout: home
-title: Benvenuto
-subtitle: Questo è un sito Jekyll con il tema YAT
+title: Senza cattedra
+subtitle: La scuola possibile
 ---
-
-
-
-### Per un'altra scuola
 
 <figure>
   <img src="comenio.png">
